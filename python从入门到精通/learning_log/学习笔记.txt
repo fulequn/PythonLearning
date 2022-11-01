@@ -1,0 +1,11 @@
+版本问题
+Django升级后，很多函数都改了
+https://blog.csdn.net/lucy82910/article/details/79280734
+https://blog.csdn.net/u011318077/article/details/85258847
+https://blog.csdn.net/weixin_40624269/article/details/81773153
+
+时区问题
+https://www.cnblogs.com/brad1994/p/6761110.html
+
+cannot import name login' from django. contrib. auth. views
+https://blog.csdn.net/steventian72/article/details/85225631

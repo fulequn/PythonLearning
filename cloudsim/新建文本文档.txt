@@ -1,0 +1,13 @@
+不同时刻下整个云数据中心的
+能耗对比
+300.10: Data center's energy is 0.00 W*sec
+
+服务器平均CPU利用率的对比
+300.10: [Host #20] utilization is 9.25%
+
+虚拟机迁移次数对比
+300.10: Migration of VM #37 from Host #22 to Host #41 is started
+
+整个云数据中心的总能耗、能耗累加
+平均CPU利用率、平均值
+迁移次数。总和
